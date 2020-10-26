@@ -27,13 +27,11 @@
 ### Projeto construído com:
 - Android
  <br>
- -Kotlin
+ -Java
  <br>
  -xml
   
- ## Libs e dependências utilizadas :books:
 
-- [Kotlin](https://kotlinlang.org/):  versão 1.4
 
 ## Como executar o projeto na sua máquina :gear:
 
